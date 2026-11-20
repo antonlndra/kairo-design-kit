@@ -474,7 +474,7 @@ function Gallery() {
           id="aplicacion"
           eyebrow="Aplicación"
           title="Piezas de producto"
-          description="Los componentes con más carácter del producto: docks de cristal, tarjetas de calendario, folders de ideas y ajustes."
+          description="Los componentes con más carácter del producto: docks de cristal, tarjetas de calendario, folders de ideas y feeds."
         >
           <div className="grid gap-4 lg:grid-cols-2">
             <Panel title="Glass app dock" hint="navegación flotante">
